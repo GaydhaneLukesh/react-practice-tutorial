@@ -1,3 +1,8 @@
+import '@fortawesome/fontawesome-free/css/fontawesome.css';
+import 'mdbootstrap/css/bootstrap.css';
+import 'mdbootstrap/css/mdb.css';
+import './styles.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

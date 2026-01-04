@@ -1,0 +1,6 @@
+.btn-info , .bg-info {
+    background: linear-gradient(45deg,black,lightblue);
+}
+.btn-primary , .bg-primary {
+    background: linear-gradient(45deg,rgba(83, 78, 78, 0),rgba(239, 155, 71, 0.55));
+}
