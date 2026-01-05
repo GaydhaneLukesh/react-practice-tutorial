@@ -61,3 +61,13 @@ nav a {
   background-color: rgba(0, 0, 0, 0.3);
   height: 100%;
 }
+
+.card {
+  background-color: rgb(242, 226, 226);
+  padding: 50px;
+  margin: 100px;
+  border-radius: 10px;
+  box-shadow: #1b222f;
+  height: 300px;
+  width: 500px;
+}
